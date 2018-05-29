@@ -1,6 +1,8 @@
 # SmartBracelet
 Tearing down a cheap Dialog DA14580 smart bracelet
 
+![front](img/board.jpg)
+
 ## Intro
 While I was browsing one of those chinese shopping website, lightinthebox, I came across a whole page of fitness trackers. Since I was already ordering some stuff and the cheapest ones were around 7€, I got me too of those.
 
